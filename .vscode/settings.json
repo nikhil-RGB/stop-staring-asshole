@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "C:/PROJECTS/personal/stop_staring_asshole/linux"
+    "cmake.sourceDirectory": "C:/PROJECTS/personal/stop_staring_asshole/linux",
+    "java.compile.nullAnalysis.mode": "automatic"
 }
