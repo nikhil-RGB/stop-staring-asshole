@@ -10,8 +10,8 @@
 ## Purpose:
 
 Ever had an asshole looking at your screen over your shoulder for longer than you're comfortable with? 
-Here's a fun alternative: an "application" with just one screen, with a simple message: STOP STARING AT MY SCREEN, launched whenever you press a specefic key combination.
-To use this "application":
+Here's a fun alternative: an "application" with just one screen, with a simple message: STOP STARING AT MY SCREEN, launched whenever you press a specific key combination.
+To use this "application", install the apk or .exe from the releases section, or build the application yourself:
 
 - Clone the repo: ```git clone stop_staring_asshole```
 - Navigate to the root directory of the project
